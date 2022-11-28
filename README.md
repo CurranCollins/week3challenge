@@ -12,7 +12,7 @@ In order to start this project I had to pull the starting code from the class Gi
 ## Usage
 
 active webpage link:
-https://currancollins.github.io/Portfolio/
+https://currancollins.github.io/week3challenge/
 
 This webpage is to be used to generate a random password from 8-128 characters using atleast one criteria, choosing from lowercase, uppercase, numeric, and special characters.
 
